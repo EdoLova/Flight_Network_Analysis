@@ -1,4 +1,4 @@
-# Flight Interconnected Data Analysis
+# Flight Network Analysis
 
 This project performs a comprehensive analysis of the US flight network using Apache Spark and GraphFrames.  
 The goal is to explore flight patterns, airport connectivity, and hub importance by modeling the airline network as a graph and computing several graph-theoretic metrics.
